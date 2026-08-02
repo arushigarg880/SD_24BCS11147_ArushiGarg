@@ -5,7 +5,7 @@ Production-oriented URL Shortener System Design with architecture diagrams and D
 Production-oriented System Design of a scalable URL Shortener similar to TinyURL and Bitly.
 
 ---
-![Production Architecture](previews/12-production-architecture.png)
+![Production Architecture](Untitled Diagram-12. Production-Ready Distributed Architecture.drawio(1).png)
 ## Repository Structure
 
 ```text
